@@ -1,0 +1,34 @@
+
+body {
+    background: url(https://wallpapercave.com/wp/wp7282567.jpg) no-repeat fixed center center;
+    background-size: cover;
+}
+
+.table {
+    color: #000000;
+    background-color: rgba(139, 166, 205, 0.902);
+    text-align: center;
+    font-family: "Arial";
+    font-weight: 500;
+}
+
+.btn{
+    color: #ffffff;
+    text-align: center;
+    font-family: "sans-serif";
+    font-weight: 600;
+}
+
+    
+.titulo {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'VALORANT', sans-serif;
+    font-size: 4rem;
+}
+
+.container {
+    text-align: center, justify;
+    font-family: "Arial";
+    font-weight: 500;
+}
