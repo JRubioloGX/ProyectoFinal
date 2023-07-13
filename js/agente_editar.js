@@ -5,7 +5,7 @@ const { createApp } = Vue
 createApp({
     data() {
         return {
-            id: 0,
+            /*id: 0,*/
             nombre: "",
             rol: "",
             origen: "",
